@@ -1,4 +1,4 @@
-# SoftudeProject - Microsoft Stock Analysis using RNN
+# SoftudeProject - Microsoft Stocks and Weather Analysis using RNN
 This project includes in-depth analysis of the past Microsoft Stocks prices data containing Low, High, Volume and Adjacent Prices of more than 20 years.
 
 ## Goal
